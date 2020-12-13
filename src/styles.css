@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  background-color: red;
+  text-align: center;
+  font-weight: bolder;
+}
