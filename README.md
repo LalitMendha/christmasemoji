@@ -1,9 +1,16 @@
-# This is my first React js project.  
+# This is my first React js project.
 
-# Welcome to christmas emoji's
+## Welcome to christmas emoji's
 
-# This application descibes all the emoji's that can be used in christmas. 
-
-## You can either enter the emoji and get the meaning of it or you can click on emoji to get the meaning of the emoji's.
+## This application descibes all the emoji's that can be used in christmas.
 
 # This application is built using React.js.
+
+# How this Application works:
+
+- Enter your name in the text box provided. It will greet you with a welcome message.
+- You can see the List of emoji's either you can select one and get to know the meaning or enter the emoji directly in the text box to know the meaning.
+- You can also hover the emoji to zoom in emoji.
+- If you enter an emoji that we do not have in our dictionary then message saying emoji not found is displayed.
+
+# Thank you !!

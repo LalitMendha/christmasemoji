@@ -3,8 +3,44 @@
   text-align: center;
 }
 
-.container {
+body {
+  /* background-image: url("/santaclaus.jpg"); */
+}
+
+.header {
   background-color: red;
   text-align: center;
   font-weight: bolder;
+}
+
+.container {
+  margin: auto;
+  padding: 1rem;
+  background-color: #f3f4f6;
+  max-width: 600px;
+}
+
+ul {
+  list-style: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  text-align: right;
+}
+
+li {
+  cursor: pointer;
+  padding: 1rem;
+}
+
+li:hover {
+  transform: scale(2);
+}
+
+.footer {
+  background-color: red;
+  color: white;
+}
+
+p {
+  font-style: italic;
 }
